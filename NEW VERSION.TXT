@@ -1,0 +1,3 @@
+Emptycanvas comes back on Github: http://github.com/mdahmen/emptycanvas
+
+Intermediate versions and commits on codeplex.com/emptycanvas/
